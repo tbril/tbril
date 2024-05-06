@@ -1,10 +1,8 @@
-- 👋 Hi, I’m april
+- 👋 Hi, I’m pol
 - 👀 I’m interested in coding and videogames
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on idk smth
 - 📫 How to reach me polj41@gmai.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: fredy fazbear
+- ⚡ Fun fact: fun fact
 
 <!---
 tbril/tbril is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
